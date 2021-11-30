@@ -1,29 +1,29 @@
 @keyframes bgColor {
   12.5% {
-    color: #FF0000;
+    color: #FF0000 !important;
   }
   25% {
-    color: #FFA500;
+    color: #FFA500 !important;
   }
   37.5% {
-    color: #FFFF00;
+    color: #FFFF00 !important;
   }
   50% {
-    color: #7FFF00;
+    color: #7FFF00 !important;
   }
   62.5% {
-    color: #00FFFF;
+    color: #00FFFF !important;
   }
   75% {
-    color: #0000FF;
+    color: #0000FF !important;
   }
   87.5% {
-    color: #9932CC;
+    color: #9932CC !important;
   }
   100% {
-    color: #FF1493;
+    color: #FF1493 !important;
   }
   112.5% {
-    color: #FF0000;
+    color: #FF0000 !important;
   }
 }
