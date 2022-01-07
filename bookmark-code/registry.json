@@ -1,5 +1,8 @@
 [
   {
     "name": "Live Edit Toggle", "catg": "misc", "code": "liveedit.js"
+  },
+  {
+    "name": "YETUS DELETUS", "catg": "misc", "code": "del.js"
   }
 ]
