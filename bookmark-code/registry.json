@@ -10,5 +10,53 @@
   },
   {
     "name": "Pog Site", "catg": "misc", "code": "pogsite.js"
+  },
+  {
+    "name":"Sussy Click","catg":"misc","code":"susclick.js"
+  },
+  {
+    "name":"Rock","catg":"misc","code":"rock.js"
+  },
+  {
+    "name":"All Image","catg":"misc","code":"allimage.js"}
+  ,
+  {
+    "name":"Diamond Cursor","catg":"cursors","code":"diacursor.js"
+  },
+  {
+    "name":"Bacon Cursor","catg":"cursors","code":"bacon.js"
+  },
+  {
+    "name":"Sussy","catg":"cursors","code":"suscursor.js"
+  },
+  {
+    "name":"Rainbow","catg":"backgrounds","code":"rainbow.js"
+  },
+  {
+    "name":"All Rainbow","catg":"backgrounds","code":"allrainbow.js"
+  },
+  {
+    "name":"Snow","catg":"backgrounds","code":"snowback.js"
+  },
+  {
+    "name":"Imposter Sound","catg":"sounds","code":"sussound.js"
+  },
+  {
+    "name":"Vine Boom","catg":"sounds","code":"vineboom.js"
+  },
+  {
+    "name":"Android Notif","catg":"sounds","code":"androidnotif.js"
+  },
+  {
+    "name":"Android Alarm","catg":"sounds","code":"alarm.js"
+  },
+  {
+    "name":"HEE HEE","catg":"sounds","code":"heehee.js"
+  },
+  {
+    "name":"Rick Roll","catg":"sounds","code":"rickroll.js"
+  },
+  {
+    "name":"MC oof","catg":"sounds","code":"mcoof.js"
   }
 ]
