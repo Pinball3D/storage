@@ -4,5 +4,8 @@
   },
   {
     "name": "YETUS DELETUS", "catg": "misc", "code": "del.js"
+  },
+  {
+    "name": "Game controller", "catg": "cursors", "code": "videogamecursor.js"
   }
 ]
