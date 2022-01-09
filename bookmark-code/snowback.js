@@ -1,0 +1,16 @@
+var div = document.createElement('div');
+div.id = "tsparticles";
+document.body.appendChild(div);
+var sc = document.createElement('script');
+sc.src="https://code.jquery.com/jquery-3.6.0.min.js";
+document.head.appendChild(sc);
+var lib = document.createElement('script');
+lib.src = "https://cdn.jsdelivr.net/npm/tsparticles@1.37.5/tsparticles.min.js";
+document.head.appendChild(lib);
+var ex = document.createElement('script');
+ex.src="https://cdn.jsdelivr.net/npm/jquery-particles";
+document.head.appendChild(ex);
+var cd = document.createElement('script');
+cd.innerHTML = '$("#tsparticles").particles().init({  particles: {    color: {      value: "#fff"    },    move: {      direction: "bottom",      enable: true,      outModes: "out",      speed: 2    },    number: {      density: {        enable: true,        area: 800      },      value: 400    },    opacity: {      value: 0.7    },    shape: {      type: "circle"    },    size: {      value: 10    },    wobble: {      enable: true,      distance: 10,      speed: 10    },    zIndex: {      value: {        min: 0,        max: 100      }    }  }})';
+document.head.appendChild(cd);
+document.body.style.backgroundColor="black";
