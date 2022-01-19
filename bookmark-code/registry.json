@@ -58,5 +58,8 @@
   },
   {
     "name":"MC oof","catg":"sounds","code":"mcoof.js"
+  },
+  {
+    "name":"Custom Title","catg":"misc","code":"title.js"
   }
 ]
