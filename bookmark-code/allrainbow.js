@@ -1,2 +1,7 @@
-document.createElement("style");style.innerHTML="@keyframesbgColor{12.5%{background-color:#FF0000;}25%{background-color:#FFA500;}37.5%{background-color:#FFFF00;}50%{background-color:#7FFF00;}62.5%{background-color:#00FFFF;}75%{background-color:#0000FF;}87.5%{background-color:#9932CC;}100%{background-color:#FF1493;}112.5%{background-color:#FF0000;}}*{animation:bgColor5sinfinitelinear;}";
+var lnk = document.createElement("link");
+lnk.href="https://pinball3d.github.io/storage/rainbow.css";
+lnk.type="text/css";
+document.head.appendChild(lnk);
+var style = document.createElement("style");
+style.innerHTML="*{ animation:bgColor 5s infinite linear;}";
 document.head.appendChild(style);
