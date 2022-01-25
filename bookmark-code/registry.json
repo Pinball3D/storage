@@ -61,5 +61,8 @@
   },
   {
     "name":"All Vine Boom","catg":"sounds","code":"allvineboom.js"
+  },
+  {
+    "name":"Image Background","catg":"backgrounds","code":"backimage.js"
   }
 ]
