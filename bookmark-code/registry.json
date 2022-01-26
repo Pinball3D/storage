@@ -65,7 +65,10 @@
   {
     "name":"Image Background","catg":"backgrounds","code":"backimage.js"
   },
-   {
+  {
     "name":"BurgerKing Foot Lettuce","catg":"sounds","code":"burger.js"
+  },
+  {
+    "name":"EXTREME Vine Boom","catg":"sounds","code":"extremevineboom.js"
   }
 ]
