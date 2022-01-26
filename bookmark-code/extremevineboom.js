@@ -15,4 +15,8 @@ if(confirm("Would you like it to activate on scroll? Cancel = no")) {
 document.body.onwheel = func;
 sel = sel+"Scroll, ";
 }
+if(confirm("Would you like it to activate on mouse move? Cancel = no")) {
+document.body.onmousemove = func;
+sel = sel+"Mouse Move, ";
+}
 alert(sel);
