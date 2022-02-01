@@ -70,5 +70,11 @@
   },
   {
     "name":"EXTREME Vine Boom","catg":"sounds","code":"extremevineboom.js"
+  },
+  {
+    "name":"Doodle","catg":"misc","code":"doodle.js"
+  },
+  {
+    "name":"Auto Clicker","catg":"misc","code":"autoclick.js"
   }
 ]
