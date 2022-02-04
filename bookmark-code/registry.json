@@ -79,5 +79,8 @@
   },
   {
     "name": "Image Click","catg":"misc","code":"imgclick.js"
+  },
+  {
+    "name":"Pop Cat", "catg": "cursors", "code": "pop.js"
   }
 ]
