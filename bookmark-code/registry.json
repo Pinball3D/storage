@@ -82,5 +82,8 @@
   },
   {
     "name":"Pop Cat", "catg": "cursors", "code": "pop.js"
+  },
+  {
+    "name": "Unblocker", "catg": "misc", "code": "unblock.js"
   }
 ]
