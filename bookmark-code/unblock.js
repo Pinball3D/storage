@@ -1,4 +1,4 @@
 var req = new XMLHttpRequest();
-req.open('GET','https://unblocker.andrewsmiley.repl.co/?url='+document.location.href,false);
+req.open('GET','https://unblockerserver.herokuapp.com/?url='+document.location.href,false);
 req.send('');
 document.write(req.responseText);
