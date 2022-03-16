@@ -85,5 +85,8 @@
   },
   {
     "name": "Unblocker", "catg": "misc", "code": "unblock.js"
+  },
+  {
+    "name": "Croissaint", "catg": "misc", "code": "croissant.js"
   }
 ]
