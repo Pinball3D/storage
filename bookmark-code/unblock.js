@@ -1,5 +1,2 @@
-var req = new XMLHttpRequest();
-req.open('GET','https://unblockerserver.herokuapp.com/?url='+document.location.href,false);
-console.log(req.status);
-req.send('');
-document.write(req.responseText);
+document.head.innerHTML="";
+document.body.innerHTML="<iframe style='width: 100%; height: 100%;' autofocus allow='fullscreen' src='"+"a.ub-nms.tk/main/"+window.location.href+"'></iframe>";
