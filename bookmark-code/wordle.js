@@ -1,5 +1,5 @@
 var abc, e, fivel, fourl, numOfLetters, onel, r, sixl, threel, twol, word;
-let paramString = window.href.split('?')[1];
+let paramString = window.location.href.split('?')[1];
 let params_arr = paramString.split('&');
 for(let i = 0; i < params_arr.length; i++) {
     let pair = params_arr[i].split('=');
