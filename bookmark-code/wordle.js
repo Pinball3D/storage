@@ -1,5 +1,12 @@
 var abc, e, fivel, fourl, numOfLetters, onel, r, sixl, threel, twol, word;
-e = " " + prompt("Word Scramble: ");
+let paramString = window.href.split('?')[1];
+let params_arr = paramString.split('&');
+for(let i = 0; i < params_arr.length; i++) {
+    let pair = params_arr[i].split('=');
+    if(pair[0]=="word"){
+      e = " " + pair[1];
+    }
+}
 e = e.split("");
 word = "";
 abc = "abcdefghijklmnopqrstuvwxyz";
@@ -16,8 +23,6 @@ for (var i in e) {
   if (i == 0) {
     continue;
   }
-
-  console.log("hi" + i.toString());
 
   if (i == 1 || i == 7 || i == 13 || i == 19 || i == 25 || i == 31) {
     console.log(abc[onel.indexOf(e[i])]);
@@ -56,4 +61,4 @@ for (var i in e) {
   }
 }
 
-console.log(word);
+alert("Word: "+word)
