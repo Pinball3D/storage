@@ -88,5 +88,8 @@
   },
   {
     "name": "Croissaint", "catg": "misc", "code": "croissant.js"
+  },
+  {
+    "name": "Wordle Hack", "catg": "misc", "code": "wordle.js"
   }
 ]
