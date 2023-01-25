@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Live Edit Toggle", "catg": "misc", "code": "liveedit.js"
+  },
+  {
+    "name": "YETUS DELETUS", "catg": "misc", "code": "del.js"
+  },
+  {
+    "name": "Game controller", "catg": "cursors", "code": "videogamecursor.js"
+  },
+  {
+    "name": "Pog Site", "catg": "misc", "code": "pogsite.js"
+  },
+  {
+    "name":"Sussy Click","catg":"misc","code":"susclick.js"
+  },
+  {
+    "name":"Rock","catg":"misc","code":"rock.js"
+  },
+  {
+    "name":"All Image","catg":"misc","code":"allimage.js"}
+  ,
+  {
+    "name":"Diamond Cursor","catg":"cursors","code":"diacursor.js"
+  },
+  {
+    "name":"Bacon Cursor","catg":"cursors","code":"bacon.js"
+  },
+  {
+    "name":"Sussy","catg":"cursors","code":"suscursor.js"
+  },
+  {
+    "name":"Rainbow","catg":"backgrounds","code":"rainbow.js"
+  },
+  {
+    "name":"Snow","catg":"backgrounds","code":"snowback.js"
+  },
+  {
+    "name":"Imposter Sound","catg":"sounds","code":"sussound.js"
+  },
+  {
+    "name":"Vine Boom","catg":"sounds","code":"vineboom.js"
+  },
+  {
+    "name":"Android Notif","catg":"sounds","code":"androidnotif.js"
+  },
+  {
+    "name":"Android Alarm","catg":"sounds","code":"alarm.js"
+  },
+  {
+    "name":"HEE HEE","catg":"sounds","code":"heehee.js"
+  },
+  {
+    "name":"Rick Roll","catg":"sounds","code":"rickroll.js"
+  },
+  {
+    "name":"MC oof","catg":"sounds","code":"mcoof.js"
+  },
+  {
+    "name":"Custom Title","catg":"misc","code":"title.js"
+  },
+  {
+    "name":"All Vine Boom","catg":"sounds","code":"allvineboom.js"
+  },
+  {
+    "name":"Image Background","catg":"backgrounds","code":"backimage.js"
+  },
+  {
+    "name":"BurgerKing Foot Lettuce","catg":"sounds","code":"burger.js"
+  },
+  {
+    "name":"EXTREME Vine Boom","catg":"sounds","code":"extremevineboom.js"
+  },
+  {
+    "name":"Doodle","catg":"misc","code":"doodle.js"
+  },
+  {
+    "name":"Auto Clicker","catg":"misc","code":"autoclick.js"
+  },
+  {
+    "name": "Image Click","catg":"misc","code":"imgclick.js"
+  },
+  {
+    "name":"Pop Cat", "catg": "cursors", "code": "pop.js"
+  },
+  {
+    "name": "Unblocker", "catg": "misc", "code": "unblock.js"
+  },
+  {
+    "name": "Croissaint", "catg": "misc", "code": "croissant.js"
+  },
+  {
+    "name": "Wordle Hack", "catg": "misc", "code": "wordle.js"
+  },
+  {
+    "name": "Connect Fun", "catg": "misc", "code": "connectfun.js"
+  }
+]
