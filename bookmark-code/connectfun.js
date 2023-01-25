@@ -1,6 +1,6 @@
 var body = "";
 document.body.innerHTML="";
-ws = new WebSocket("wss://Connect-Fun-Server.andrewsmiley.repl.co");
+ws = new WebSocket("wss://5065322b3d2b440f91c9a7a6690de1b7.vfs.cloud9.us-east-1.amazonaws.com");
 ws.onopen = function() {
   console.log("opened");
 };
