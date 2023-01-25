@@ -17,7 +17,7 @@ ws.onmessage = function (evt) {
 ws.onclose = function() { 
   console.log("Closed")
 };
-//setInterval(function() { counter() }, 0);
+setInterval(function() { counter() }, 0);
 function counter()
 {
   if (document.body.innerHTML != body) {
