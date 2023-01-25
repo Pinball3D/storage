@@ -1,8 +1,5 @@
 var body = "";
-document.body.innerHTML="<div id='content'></div>"
-document.body.style="margin: 0; padding: 0; overflow: auto;"
-var selector = document.createElement("div");
-selector.style = "background-color: #333; overflow: auto; white-space: nowrap; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; bottom: 0px; position: absolute;"
+document.body.innerHTML="";
 ws = new WebSocket("wss://Connect-Fun-Server.andrewsmiley.repl.co");
 ws.onopen = function() {
   console.log("opened");
@@ -11,7 +8,7 @@ ws.onopen = function() {
 ws.onmessage = function (evt) { 
   var received_msg = evt.data;
   document.body.innerHTML = evt.data;
-  body = evt.data
+  body = document.body.innerHTML
 };
 				
 ws.onclose = function() { 
