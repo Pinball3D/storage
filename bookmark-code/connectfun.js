@@ -22,5 +22,6 @@ function counter()
 {
   if (document.body.innerHTML != body) {
     ws.send(document.body.innerHTML)
+    body = document.body.innerHTML;
   }
 }
