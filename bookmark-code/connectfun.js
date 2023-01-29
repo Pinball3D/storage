@@ -1,4 +1,4 @@
-if (window.location.href == "http://example.com") {
+if (window.location.href == "http://example.com/" || window.location.href == "http://example.com") {
     var body = "";
     document.body.innerHTML = "";
     ws = new WebSocket("ws://ec2-18-205-105-185.compute-1.amazonaws.com:5000/");
