@@ -1,4 +1,4 @@
-if (window.location.href == "about:blank") {
+if (window.location.href == "http://example.com") {
     var body = "";
     document.body.innerHTML = "";
     ws = new WebSocket("ws://ec2-18-205-105-185.compute-1.amazonaws.com:5000/");
@@ -27,5 +27,5 @@ if (window.location.href == "about:blank") {
     }
 } else {
     alert("IMPORTANT: When you click ok, you will be brought to a new page. When you get to the new page, click this bookmark again.");
-    window.location.href = "about:blank";
+    window.location.href = "http://example.com";
 }
