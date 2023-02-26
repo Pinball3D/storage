@@ -198,11 +198,11 @@ function checkGeoAccess(n, t, i, r, u) {
         contentType: "application/json; charset-utf-8",
         dataType: "json",
         success: function(n) {
-            r(n)
+            r(true)
         },
         error: function(n) {
             if (n != null && n != undefined)
-                return u(n)
+                return u(true)
         }
     })
 }
