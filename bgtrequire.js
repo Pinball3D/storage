@@ -198,7 +198,7 @@ function checkGeoAccess(n, t, i, r, u) {
         contentType: "application/json; charset-utf-8",
         dataType: "json",
         success: function(n) {
-            r(true)
+            r({ "readyState": 4, "responseText": "{\"success\":true,\"message\":\"Success\"}", "responseJSON": { "success": true, "message": "Success" }, "status": 200, "statusText": "success" })
         },
         error: function(n) {
             if (n != null && n != undefined)
