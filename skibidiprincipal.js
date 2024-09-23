@@ -1,4 +1,4 @@
-const newWindow = window.open('/NHSPrincipal');
+const newWindow = window.open('https://www.newtown.k12.ct.us/NHSPrincipal/');
 
 // Wait for the new window to fully load before running the script
 newWindow.onload = function() {
